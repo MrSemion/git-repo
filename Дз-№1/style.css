@@ -1,0 +1,19 @@
+
+        table {
+            border-collapse: collapse;
+        }
+        td {
+            width: 70px;
+            height: 70px;
+            vertical-align: middle;
+            text-align: center;
+        }
+        .white_cell, .black_cell {
+            border: 1px solid #000;
+        }
+        .white_cell {
+            background: #fff;
+        }
+        .black_cell {
+            background: #413f3f;
+        }
